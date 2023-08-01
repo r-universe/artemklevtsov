@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "benchr"]
-	path = benchr
-	url = https://gitlab.com/artemklevtsov/benchr
 [submodule "RcppUUID"]
 	path = RcppUUID
 	url = https://gitlab.com/artemklevtsov/rcppuuid
+[submodule "benchr"]
+	path = benchr
+	url = https://gitlab.com/artemklevtsov/benchr
 [submodule "uchardet"]
 	path = uchardet
 	url = https://gitlab.com/artemklevtsov/uchardet

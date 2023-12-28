@@ -8,6 +8,3 @@
 [submodule "benchr"]
 	path = benchr
 	url = https://gitlab.com/artemklevtsov/benchr
-[submodule "uchardet"]
-	path = uchardet
-	url = https://gitlab.com/artemklevtsov/uchardet
